@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Slide203 Endgame</string>
+    <string name="ok_label">Okay</string>
+    <string name="app_info">App Info</string>
+    <string name="app_info_des">2018 Nov 20, Developed by Junha Kim</string>
+    <string name="BGM">BGM</string>
+    <string name="soundtrack_on">Sound Track On</string>
+    <string name="soundtrack_off">Sound Track Off</string>
+    <string name="speed_summary">Game Speed</string>
+    <string name="speed_entry_fast">Fast</string>
+    <string name="speed_entry_medium">Medium</string>
+    <string name="speen_entry_slow">Slow</string>
+    <string name="speed_label">Game Speed Control</string>
+    <string name="out_of_bound">To play, touch one of the buttons next to the grid.</string>
+    <string name="winner_tit">Game Over</string>
+    <string name="winner_saf">Winner is Safari</string>
+    <string name="winner_chr">Winner is Chrome</string>
+    <string name="winner_tie">Tied game</string>
+    <string name="gameover_continue">Play Again</string>
+    <string name="gameover_quit">Quit</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Slide203 Endgame</string>
+    <string name="ok_label">확인</string>
+    <string name="app_info">어플리케이션 정보</string>
+    <string name="app_info_des">2018년 11월 20일 제작자: 김준하</string>
+    <string name="BGM">배경음악</string>
+    <string name="soundtrack_on">배경음악 활성화</string>
+    <string name="soundtrack_off">배경음악 비활성화</string>
+    <string name="speed_summary">게임속도</string>
+    <string name="speed_entry_fast">빠름</string>
+    <string name="speed_entry_medium">보통</string>
+    <string name="speen_entry_slow">느림</string>
+    <string name="speed_label">게임속도 조절</string>
+    <string name="out_of_bound">플레이하려면 버튼 중 하나를 누르십시오.</string>
+    <string name="winner_tit">게임 종료</string>
+    <string name="winner_saf">사파리가 이겼습니다.</string>
+    <string name="winner_chr">크롬이 이겼습니다.</string>
+    <string name="winner_tie">비겼습니다.</string>
+    <string name="gameover_continue">다시 플레이</string>
+    <string name="gameover_quit">종료</string>
+
+</resources>
